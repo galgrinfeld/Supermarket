@@ -1,0 +1,20 @@
+﻿  ClubMember.c
+  Customer.c
+  Date.c
+  FileHelper.c
+  General.c
+  GeneralList.c
+  main.c
+  Product.c
+  ShoppingCart.c
+  ShoppingItem.c
+  SuperFile.c
+  Supermarket.c
+C:\IntroToSystemsProgramming\supermarket\SuperFile.c(24,3): warning C4013: 'saveRegularSuperFile' undefined; assuming extern returning int
+C:\IntroToSystemsProgramming\supermarket\SuperFile.c(28,3): warning C4013: 'saveCompressedSuperFile' undefined; assuming extern returning int
+C:\IntroToSystemsProgramming\supermarket\SuperFile.c(96,3): warning C4013: 'loadRegularSuperFile' undefined; assuming extern returning int
+C:\IntroToSystemsProgramming\supermarket\SuperFile.c(100,3): warning C4013: 'loadCompressedSuperFile' undefined; assuming extern returning int
+  Variadics.c
+  Generating Code...
+C:\IntroToSystemsProgramming\supermarket\SuperFile.c(167,1): warning C4715: 'loadRegularSuperFile': not all control paths return a value
+  HW3.vcxproj -> C:\IntroToSystemsProgramming\supermarket\x64\Debug\Supermarket_Solution.exe
