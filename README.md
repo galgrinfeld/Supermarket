@@ -1,7 +1,6 @@
 # 🛒 Supermarket Management System (C)
 
-A modular command-line program written in C for managing supermarket operations including customers, products, orders, and more. Built as a hands-on academic project, it demonstrates practical use of C programming, dynamic memory, data structures, and file I/O.
-
+A modular command-line program written in C for managing supermarket operations including customers, products, orders, and more. Built as a hands-on academic project, it demonstrates practical use of C programming, dynamic memory, data structures, file I/O, and bitwise operations for binary file compression.
 ---
 
 ## 📂 Project Structure
